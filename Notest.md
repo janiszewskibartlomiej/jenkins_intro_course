@@ -35,4 +35,4 @@ Build now - mamy sklonowane repo
 
 configure > triggers > poll SCM > dodac polcenie crona https://pl.wikipedia.org/wiki/Cron > save
 
-build > add builds step > maven > clean install > save
+build > add builds step > maven > clean install > save build now
