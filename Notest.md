@@ -31,4 +31,8 @@ jenkins new freestyle > add description [good practic]
 
 Source Code Management > git > https://github.com/janiszewskibartlomiej/gol > save 
 
-Build now - mam sklonowane repo
+Build now - mamy sklonowane repo
+
+configure > triggers > poll SCM > dodac polcenie crona https://pl.wikipedia.org/wiki/Cron > save
+
+build > add builds step > maven > clean install > save
